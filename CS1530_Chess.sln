@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS1530_Chess", "CS1530_Chess\CS1530_Chess.csproj", "{AFCC38D3-10A9-414B-ABD7-BC6C3504EF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCC38D3-10A9-414B-ABD7-BC6C3504EF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCC38D3-10A9-414B-ABD7-BC6C3504EF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCC38D3-10A9-414B-ABD7-BC6C3504EF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCC38D3-10A9-414B-ABD7-BC6C3504EF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Modules>
+    <Module skippedDueTo="Filter" hash="B5-D0-3C-D0-D3-0E-6D-9A-B0-27-ED-4B-C0-AC-D5-4F-18-84-56-AE">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F2-88-6F-25-4E-20-75-4B-26-EB-92-FB-BB-B2-61-C4-AE-3C-02-C0">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\nunit-console-x86.exe</FullName>
+      <ModuleName>nunit-console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="2A-C4-E5-DE-F3-EE-AD-84-E1-65-84-CC-15-90-76-96-E7-01-44-4E">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="74-74-F6-87-59-E1-5F-4F-5F-5E-6E-82-50-E8-E2-46-D4-86-15-76">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B6-60-CE-70-25-03-8E-12-F0-FF-EB-DA-C8-94-AA-A9-02-DE-71-07">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="04-DF-13-16-0B-F4-57-A9-D9-9C-5A-63-DC-51-CD-BF-FD-3A-AF-DA">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2C-B8-8B-0E-27-14-38-8E-71-A5-1D-A0-EE-33-D9-22-5F-A4-AF-79">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="ED-BE-5C-45-66-32-AB-2E-1E-B4-6F-0D-47-35-C3-3C-95-AA-09-B3">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="04-DF-13-16-0B-F4-57-A9-D9-9C-5A-63-DC-51-CD-BF-FD-3A-AF-DA">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2C-B8-8B-0E-27-14-38-8E-71-A5-1D-A0-EE-33-D9-22-5F-A4-AF-79">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="2B-6A-4B-7E-8A-04-B2-59-30-CC-62-3B-AC-6D-13-F9-CE-0E-2F-3F">
+      <FullName>C:\Users\Drew\AppData\Local\Temp\nunit20\ShadowCopyCache\4100_635694782835922250\Tests_719848781\assembly\dl3\6d2b7537\4af06ecf_13a3d001\CS1530_Chess.exe</FullName>
+      <ModuleName>CS1530_Chess</ModuleName>
+      <Files>
+        <File uid="1" fullPath="c:\Users\Drew\Documents\SharpDevelop Projects\CS1530_Chess\CS1530_Chess\MainForm.Designer.cs" />
+        <File uid="2" fullPath="c:\Users\Drew\Documents\SharpDevelop Projects\CS1530_Chess\CS1530_Chess\MainForm.cs" />
+        <File uid="3" fullPath="c:\Users\Drew\Documents\SharpDevelop Projects\CS1530_Chess\CS1530_Chess\Program.cs" />
+        <File uid="4" fullPath="c:\Users\Drew\Documents\SharpDevelop Projects\CS1530_Chess\CS1530_Chess\WalkingSkeletonTest.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <FullName>CS1530_Chess.MainForm</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void CS1530_Chess.MainForm::.ctor()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="1" ordinal="0" offset="0" sl="16" sc="3" el="16" ec="62" />
+                <SequencePoint vc="0" uspid="2" ordinal="1" offset="7" sl="22" sc="3" el="22" ec="20" />
+                <SequencePoint vc="0" uspid="3" ordinal="2" offset="14" sl="23" sc="3" el="23" ec="4" />
+                <SequencePoint vc="0" uspid="4" ordinal="3" offset="15" sl="24" sc="4" el="24" ec="26" />
+                <SequencePoint vc="0" uspid="5" ordinal="4" offset="22" sl="25" sc="3" el="25" ec="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="1" ordinal="0" offset="0" sl="16" sc="3" el="16" ec="62" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void CS1530_Chess.MainForm::Button1Click(System.Object,System.EventArgs)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="6" ordinal="0" offset="0" sl="28" sc="3" el="28" ec="4" />
+                <SequencePoint vc="0" uspid="7" ordinal="1" offset="1" sl="29" sc="4" el="29" ec="34" />
+                <SequencePoint vc="0" uspid="8" ordinal="2" offset="18" sl="30" sc="3" el="30" ec="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="6" ordinal="0" offset="0" sl="28" sc="3" el="28" ec="4" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="3" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void CS1530_Chess.MainForm::Dispose(System.Boolean)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="9" ordinal="0" offset="0" sl="23" sc="3" el="23" ec="4" />
+                <SequencePoint vc="0" uspid="10" ordinal="1" offset="1" sl="24" sc="4" el="24" ec="18" />
+                <SequencePoint vc="0" uspid="11" ordinal="2" offset="9" sl="24" sc="19" el="24" ec="20" />
+                <SequencePoint vc="0" uspid="12" ordinal="3" offset="10" sl="25" sc="5" el="25" ec="28" />
+                <SequencePoint vc="0" uspid="13" ordinal="4" offset="23" sl="25" sc="29" el="25" ec="30" />
+                <SequencePoint vc="0" uspid="14" ordinal="5" offset="24" sl="26" sc="6" el="26" ec="27" />
+                <SequencePoint vc="0" uspid="15" ordinal="6" offset="36" sl="27" sc="5" el="27" ec="6" />
+                <SequencePoint vc="0" uspid="16" ordinal="7" offset="37" sl="28" sc="4" el="28" ec="5" />
+                <SequencePoint vc="0" uspid="17" ordinal="8" offset="38" sl="29" sc="4" el="29" ec="28" />
+                <SequencePoint vc="0" uspid="18" ordinal="9" offset="46" sl="30" sc="3" el="30" ec="4" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="19" ordinal="0" offset="7" path="0" />
+                <BranchPoint vc="0" uspid="20" ordinal="1" offset="7" path="1" />
+                <BranchPoint vc="0" uspid="21" ordinal="2" offset="21" path="0" />
+                <BranchPoint vc="0" uspid="22" ordinal="3" offset="21" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="9" ordinal="0" offset="0" sl="23" sc="3" el="23" ec="4" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void CS1530_Chess.MainForm::InitializeComponent()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="23" ordinal="0" offset="0" sl="38" sc="3" el="38" ec="4" />
+                <SequencePoint vc="0" uspid="24" ordinal="1" offset="1" sl="39" sc="4" el="39" ec="53" />
+                <SequencePoint vc="0" uspid="25" ordinal="2" offset="12" sl="40" sc="4" el="40" ec="55" />
+                <SequencePoint vc="0" uspid="26" ordinal="3" offset="23" sl="41" sc="4" el="41" ec="25" />
+                <SequencePoint vc="0" uspid="27" ordinal="4" offset="30" sl="45" sc="4" el="45" ec="63" />
+                <SequencePoint vc="0" uspid="28" ordinal="5" offset="54" sl="46" sc="4" el="46" ec="34" />
+                <SequencePoint vc="0" uspid="29" ordinal="6" offset="71" sl="47" sc="4" el="47" ec="56" />
+                <SequencePoint vc="0" uspid="30" ordinal="7" offset="92" sl="48" sc="4" el="48" ec="30" />
+                <SequencePoint vc="0" uspid="31" ordinal="8" offset="105" sl="49" sc="4" el="49" ec="34" />
+                <SequencePoint vc="0" uspid="32" ordinal="9" offset="122" sl="50" sc="4" el="50" ec="48" />
+                <SequencePoint vc="0" uspid="33" ordinal="10" offset="135" sl="51" sc="4" el="51" ec="69" />
+                <SequencePoint vc="0" uspid="34" ordinal="11" offset="159" sl="55" sc="4" el="55" ec="63" />
+                <SequencePoint vc="0" uspid="35" ordinal="12" offset="183" sl="56" sc="4" el="56" ec="36" />
+                <SequencePoint vc="0" uspid="36" ordinal="13" offset="200" sl="57" sc="4" el="57" ec="58" />
+                <SequencePoint vc="0" uspid="37" ordinal="14" offset="224" sl="58" sc="4" el="58" ec="31" />
+                <SequencePoint vc="0" uspid="38" ordinal="15" offset="237" sl="62" sc="4" el="62" ec="65" />
+                <SequencePoint vc="0" uspid="39" ordinal="16" offset="259" sl="63" sc="4" el="63" ec="65" />
+                <SequencePoint vc="0" uspid="40" ordinal="17" offset="267" sl="64" sc="4" el="64" ec="56" />
+                <SequencePoint vc="0" uspid="41" ordinal="18" offset="289" sl="65" sc="4" el="65" ec="37" />
+                <SequencePoint vc="0" uspid="42" ordinal="19" offset="307" sl="66" sc="4" el="66" ec="36" />
+                <SequencePoint vc="0" uspid="43" ordinal="20" offset="325" sl="67" sc="4" el="67" ec="27" />
+                <SequencePoint vc="0" uspid="44" ordinal="21" offset="337" sl="68" sc="4" el="68" ec="31" />
+                <SequencePoint vc="0" uspid="45" ordinal="22" offset="349" sl="69" sc="4" el="69" ec="29" />
+                <SequencePoint vc="0" uspid="46" ordinal="23" offset="357" sl="70" sc="4" el="70" ec="25" />
+                <SequencePoint vc="0" uspid="47" ordinal="24" offset="364" sl="71" sc="3" el="71" ec="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="23" ordinal="0" offset="0" sl="38" sc="3" el="38" ec="4" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <FullName>CS1530_Chess.Program</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void CS1530_Chess.Program::Main(System.String[])</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="48" ordinal="0" offset="0" sl="24" sc="3" el="24" ec="4" />
+                <SequencePoint vc="0" uspid="49" ordinal="1" offset="1" sl="25" sc="4" el="25" ec="37" />
+                <SequencePoint vc="0" uspid="50" ordinal="2" offset="7" sl="26" sc="4" el="26" ec="57" />
+                <SequencePoint vc="0" uspid="51" ordinal="3" offset="14" sl="27" sc="4" el="27" ec="36" />
+                <SequencePoint vc="0" uspid="52" ordinal="4" offset="25" sl="28" sc="3" el="28" ec="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="48" ordinal="0" offset="0" sl="24" sc="3" el="24" ec="4" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void CS1530_Chess.Program::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="53" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <FullName>CS1530_Chess.WalkingSkeletonTest</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="66" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void CS1530_Chess.WalkingSkeletonTest::TestMethod()</Name>
+              <FileRef uid="4" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="54" ordinal="0" offset="0" sl="19" sc="3" el="19" ec="4" />
+                <SequencePoint vc="1" uspid="55" ordinal="1" offset="1" sl="20" sc="4" el="20" ec="36" />
+                <SequencePoint vc="0" uspid="56" ordinal="2" offset="12" sl="21" sc="3" el="21" ec="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="54" ordinal="0" offset="0" sl="19" sc="3" el="19" ec="4" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663304</MetadataToken>
+              <Name>System.Void CS1530_Chess.WalkingSkeletonTest::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="57" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="Filter" hash="12-B6-CB-35-8E-68-F3-55-1F-04-D0-E2-05-BC-CE-16-7F-FD-A3-AA">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll</FullName>
+      <ModuleName>System.Windows.Forms</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="07-60-10-FE-FC-47-C6-6E-A6-55-16-EF-B4-F8-E7-C6-29-1D-66-AB">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll</FullName>
+      <ModuleName>System.Drawing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="42-83-FE-A6-9F-01-8E-2C-E8-41-E9-25-3E-1E-0D-99-81-76-6B-C9">
+      <FullName>C:\Users\Drew\AppData\Local\Temp\nunit20\ShadowCopyCache\4100_635694782835922250\Tests_719848781\assembly\dl3\dd17fb43\00132b4f_68dace01\nunit.framework.dll</FullName>
+      <ModuleName>nunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B6-60-CE-70-25-03-8E-12-F0-FF-EB-DA-C8-94-AA-A9-02-DE-71-07">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>
